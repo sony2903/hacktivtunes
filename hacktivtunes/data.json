@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Funtastic Kpop",
+    "type": "Mythic",
+    "songs": [
+      {
+        "name": "Mr Chu",
+        "group": "Apink",
+        "duration": 180
+      },
+      {
+        "name": "No No NO",
+        "group": "Apink",
+        "duration": 200
+      },
+      {
+        "name": "Wishlist",
+        "group": "Apink",
+        "duration": 180
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Waktunya Hacktivtunes",
+    "type": "Epic",
+    "songs": [
+      {
+        "name": "Waktunya BUlan",
+        "group": "Hivi",
+        "duration": 145
+      },
+      {
+        "name": "Saling Merindu",
+        "group": "RAN",
+        "duration": 180
+      }
+    ]
+  }
+]
